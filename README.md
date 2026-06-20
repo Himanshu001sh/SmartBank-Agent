@@ -51,7 +51,16 @@ SmartBank-Agent helps users understand their financial health, plan goals, recei
 | Scikit-Learn | Analytics & Future ML Models |
 
 ---
+## 📷 Screenshots
 
+### Home Dashboard
+![Dashboard](assets/screenshots/dashboard.png)
+
+### Goal Planner
+![Goal Planner](assets/screenshots/goal_planner.png)
+
+### AI Financial Coach
+![AI Coach](assets/screenshots/ai_coach.png)
 
 ## ⚙️ Installation
 
